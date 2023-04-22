@@ -229,7 +229,7 @@ public class MainClass {
 			HTMLElement el = doc.getElementById(configRootElement);
 
 			StringBuilder str = new StringBuilder();
-			str.append("Game Crashed! I have fallen and I can't get up!\n\n");
+			str.append("Game Crashed! I have died and I can't wake up!\n\n");
 			str.append(t);
 			str.append('\n').append('\n');
 			str.append("eaglercraft.version = \"").append(EaglercraftVersion.projectForkVersion).append("\"\n");
